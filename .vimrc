@@ -28,7 +28,6 @@ nnoremap ; :
 
 nnoremap o o<esc>
 
-nnoremap p "_dp
 vnoremap p "_dp
 
 nnoremap d "_d
