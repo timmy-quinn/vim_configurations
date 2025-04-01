@@ -40,3 +40,8 @@ xnoremap D d
 
 vnoremap DD dd
 
+nnoremap <C-h> gd
+
+unmap <C-f>
+
+
