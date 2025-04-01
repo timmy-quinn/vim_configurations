@@ -28,7 +28,10 @@ nnoremap ; :
 
 nnoremap o o<esc>
 
-vnoremap p "_dp
+# don't copy to register when pasting
+# in visual mode the behavior or p and P
+# is basically reversed. So use "_dP 
+vnoremap p "_dP
 
 nnoremap d "_d
 vnoremap d "_d
