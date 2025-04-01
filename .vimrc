@@ -39,3 +39,4 @@ vnoremap D d
 xnoremap D d
 
 vnoremap DD dd
+
